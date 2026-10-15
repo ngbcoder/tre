@@ -1,0 +1,15 @@
+# Binaries
+/tre
+/tre.exe
+/bin/
+/dist/
+
+# Go
+*.test
+*.out
+coverage.*
+
+# Editors
+.idea/
+.vscode/
+*.swp

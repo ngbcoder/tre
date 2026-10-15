@@ -1,0 +1,7 @@
+# Normalize line endings in the repository; check out LF everywhere.
+* text=auto eol=lf
+
+*.go   text eol=lf
+*.md   text eol=lf
+Makefile text eol=lf
+*.yml  text eol=lf
