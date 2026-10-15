@@ -12,8 +12,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/melis/tre/internal/ignore"
-	"github.com/melis/tre/internal/tree"
+	"github.com/ngbcoder/tre/internal/ignore"
+	"github.com/ngbcoder/tre/internal/tree"
 )
 
 // DepthUnlimited traverses every level.

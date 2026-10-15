@@ -1,4 +1,4 @@
-module github.com/melis/tre
+module github.com/ngbcoder/tre
 
 go 1.26.4
 

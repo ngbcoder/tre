@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/melis/tre/internal/render"
-	"github.com/melis/tre/internal/walk"
+	"github.com/ngbcoder/tre/internal/render"
+	"github.com/ngbcoder/tre/internal/walk"
 )
 
 func TestValidate(t *testing.T) {

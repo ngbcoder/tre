@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/melis/tre/internal/render"
-	"github.com/melis/tre/internal/tree"
-	"github.com/melis/tre/internal/walk"
+	"github.com/ngbcoder/tre/internal/render"
+	"github.com/ngbcoder/tre/internal/tree"
+	"github.com/ngbcoder/tre/internal/walk"
 )
 
 // Options is the fully resolved configuration for one invocation.

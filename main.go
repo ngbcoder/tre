@@ -8,8 +8,8 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/melis/tre/cmd"
-	"github.com/melis/tre/internal/walk"
+	"github.com/ngbcoder/tre/cmd"
+	"github.com/ngbcoder/tre/internal/walk"
 )
 
 func main() {

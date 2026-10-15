@@ -1,5 +1,5 @@
 BINARY := tre
-PKG    := github.com/melis/tre
+PKG    := github.com/ngbcoder/tre
 DIST   := dist
 
 .PHONY: all build test race bench cover lint fmt vet tidy clean install run help

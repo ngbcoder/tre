@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/melis/tre/internal/tree"
+	"github.com/ngbcoder/tre/internal/tree"
 )
 
 // sample builds a deterministic tree for the renderers.

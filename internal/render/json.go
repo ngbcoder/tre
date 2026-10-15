@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/melis/tre/internal/tree"
+	"github.com/ngbcoder/tre/internal/tree"
 )
 
 // jsonNode is the wire format for --format json.

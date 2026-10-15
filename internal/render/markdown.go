@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/melis/tre/internal/tree"
+	"github.com/ngbcoder/tre/internal/tree"
 )
 
 // Markdown writes root as a nested bullet list, suitable for pasting into

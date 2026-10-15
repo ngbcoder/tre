@@ -7,9 +7,9 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/melis/tre/internal/cli"
-	"github.com/melis/tre/internal/render"
-	"github.com/melis/tre/internal/walk"
+	"github.com/ngbcoder/tre/internal/cli"
+	"github.com/ngbcoder/tre/internal/render"
+	"github.com/ngbcoder/tre/internal/walk"
 )
 
 // ExecuteContext runs the tre command.

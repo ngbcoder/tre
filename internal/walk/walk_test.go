@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/melis/tre/internal/tree"
+	"github.com/ngbcoder/tre/internal/tree"
 )
 
 // fixture builds a small tree and returns its root. The layout exercises

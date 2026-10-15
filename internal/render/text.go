@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/melis/tre/internal/humanize"
-	"github.com/melis/tre/internal/tree"
+	"github.com/ngbcoder/tre/internal/humanize"
+	"github.com/ngbcoder/tre/internal/tree"
 )
 
 // Text writes root as a classic box-drawing tree.

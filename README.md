@@ -28,7 +28,7 @@ $ tre -s 2
 ## Install
 
 ```bash
-go install github.com/melis/tre@latest
+go install github.com/ngbcoder/tre@latest
 ```
 
 Or build from source:
