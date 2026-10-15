@@ -38,6 +38,26 @@ make build      # produces ./tre
 make install    # installs into $GOPATH/bin
 ```
 
+### Releases
+
+Prebuilt binaries for Linux, macOS (Intel and Apple Silicon) and Windows are
+attached to each [release](https://github.com/ngbcoder/tre/releases), together
+with a `SHA256SUMS.txt` you can verify against:
+
+```bash
+sha256sum -c SHA256SUMS.txt
+```
+
+To cut one, push a `v`-prefixed tag. The
+[release workflow](.github/workflows/release.yml) cross-compiles all five
+targets, checksums them, smoke-tests the Linux binary and publishes the
+release with auto-generated notes:
+
+```bash
+git tag v0.1.0
+git push origin v0.1.0
+```
+
 ## Usage
 
 ```
